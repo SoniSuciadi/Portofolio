@@ -1,7 +1,6 @@
 import { Outlet, RouterProvider } from "react-router-dom";
 import "./App.css";
 
-import { NavBar } from "./components/NavBar";
 import route from "./routes";
 
 function App() {
